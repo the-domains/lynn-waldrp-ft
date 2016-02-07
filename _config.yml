@@ -1,12 +1,24 @@
-layout_spectrum: 0.5601504
-typography_spectrum: 0.9414608
 color:
   saturation: 0
-  lightness: 0
   brandStrength: 0.9027927
+  rhythmicContrast: 0
   brandColors:
     - '#F6F6F6'
     - '#050105'
     - '#5A4C4C'
-  rhythmicContrast: 0
+  lightness: 0
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 0.5601504
+typography_spectrum: 0.9414608
 name: '๏lYnn:waldr◎p:f◎t◎๏'
