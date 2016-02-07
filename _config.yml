@@ -4,21 +4,21 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
-typography_spectrum: 0.9414608
 color:
-  saturation: 0.4581096
+  saturation: 0.7363051
   brandStrength: 0.9027927
-  lightness: 0
+  lightness: 0.5676692
   brandColors:
-    - '#F6F6F6'
-    - '#050105'
+    - '#FFFFFF'
+    - '#0E060B'
     - '#5A4C4C'
-  rhythmicContrast: 0.4957035
+  rhythmicContrast: 0.3646616
+typography_spectrum: 0.9414608
 layout_spectrum: 0.4291085
-name: lYnnwaldropfoto
+name: '๏lYnn:waldr◎p๏f◎T◎๏'
