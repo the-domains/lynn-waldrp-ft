@@ -4,23 +4,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 color:
   saturation: 0.4946294
   brandStrength: 0.4989259
-  lightness: 0.5161117
+  lightness: 0.6192266
   brandColors:
     - '#0D0D0F'
     - '#FFFFFF'
     - '#524D53'
     - '#B4B4B4'
     - '#898789'
-  rhythmicContrast: 0.4957035
+  rhythmicContrast: 0.5279269
 typography_spectrum: 0.9425349
-layout_spectrum: 0.9113855
+layout_spectrum: 0.7792696
 name: lYnnwaldropfoto
