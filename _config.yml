@@ -14,7 +14,7 @@ typography_spectrum: 0.9425349
 color:
   saturation: 0.4946294
   brandStrength: 0.4989259
-  lightness: 0.509667
+  lightness: 0.02524164
   brandColors:
     - '#0D0D0F'
     - '#FFFFFF'
@@ -22,5 +22,5 @@ color:
     - '#B4B4B4'
     - '#898789'
   rhythmicContrast: 0.4957035
-layout_spectrum: 1
+layout_spectrum: 0.9113855
 name: lYnnwaldropfoto
